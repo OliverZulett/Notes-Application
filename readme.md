@@ -20,7 +20,7 @@ docker run --rm -v $(pwd):/app composer install
 ```
 2. Start project
 ``` bash
-./vendor/bin/sail up 
+./vendor/bin/sail up -d
 ```
 3. migrate database
 ``` bash
