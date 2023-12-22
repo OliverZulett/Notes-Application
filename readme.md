@@ -1,6 +1,6 @@
 # Notes App
 
-una aplicacion creada con Laravel y Vuejs
+una super aplicacion creada con Laravel y Vuejs
 
 ## requisitos
 
